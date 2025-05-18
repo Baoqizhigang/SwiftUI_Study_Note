@@ -81,7 +81,7 @@ struct RotationGestureDemo_1: View {
             )
             .padding(.bottom, 30)
         
-        Text("Sequence Gesture")
+        Text("Sequence Gesture !")
         Text("Position: \(Int(offset.width)), \(Int(offset.height))")
             .padding()
         Circle()
